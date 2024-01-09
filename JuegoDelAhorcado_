@@ -43,3 +43,193 @@ archivo es cargado en Windows) de la computadora personal de Eric Mouser sigue u
 exponencial, con una media de 27 segundos. ¿Cuál es la probabilidad de que este “buteo” requerirá:
 a) entre 30 y 45
 d. 0,1403
+////////////////////////7
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución uniforme de entre 0 y 3,5 minutos.
+¿Qué porcentaje de huéspedes espera menos de un minuto?
+R//0,2857
+
+El “tiempo de buteo” (el lapso que transcurre entre la aparición de la pantalla del Bios hasta que el primer archivo es cargado en Windows) de la computadora personal 
+de Eric Mouser sigue una distribución exponencial, con una media de 27 segundos. ¿Cuál es la probabilidad de que este “buteo” requerirá:
+a) menos de 60 segundos
+R// 0.8916
+
+Shaver Manufacturing, Inc., ofrece a sus empleados seguros de atención dental. Un estudio reciente realizado por el director de recursos humanos demuestra que el costo 
+anual por empleado tuvo una distribución de probabilidad normal, con una media de $1 280 y una desviación estándar de $420 anuales.
+¿Cuál fue el costo de 15% de los empleados que generó gastos más altos por atención dental?
+R//1716,8
+
+Un informe reciente publicado en USA Today indicaba que una familia común de cuatro miembros gasta $490 al mes en alimentos. Suponga que la distribución de gastos de 
+alimento de una familia de cuatro miembros sigue una distribución normal, con una media de $490 y una desviación estándar de $90.
+(redondear eel valor de z al segundo decimal si lo amerita)
+ ¿Qué porcentaje de familias gasta mas de $550 mensuales en alimentos?
+R//0.2514
+
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución uniforme de entre 0 y 3.5 minutos.
+¿Cuál es la desviación estándar del tiempo de espera?
+R//1.0103
+//////////////
+El equipo de béisbol de los Gatos Salvajes de Ludlow, un equipo de las
+ligas menores de la organización de los Indios de Cleveland, juega 70%
+de sus partidos por la noche y 30% de día. El equipo pierde 50% de los
+juegos nocturnos y 10% de los diurnos. De acuerdo con el periódico de
+hoy, perdieron el día de ayer. ¿Cuál es la probabilidad de que el partido
+se haya jugado de día?
+R: 0,4355
+
+12:29
+El equipo de béisbol de los Gatos Salvajes de Ludlow, un equipo de las ligas menores de la organización de los Indios de Cleveland, juega 70% de sus partidos por la noche y 30% de día. El equipo gana 50% de los juegos nocturnos y 90% de los diurnos. De acuerdo con el periódico de hoy, ganaron el día de ayer. ¿Cuál es la probabilidad de que el partido se haya jugado de día?
+R: 0,4355
+
+12:42
+Dado los siguientes datos:
+
+P(A1)=0,20 P(B1|A1)=0,25
+
+P(A2)=0,40 P(B1|A2)=0,05
+
+P(A3)=0,40 P(B1|A3)=0,10
+
+Se pide calcular la P(A2|B1)
+R: 0,3636
+
+12:46
+La siguiente tabla refleja la cantidad de estudiantes, según la calificación obtenida en Estadística & probabilidades de dos universidades.
+
+cuál de los siguientes valores representa el Chi o Ji- cuadrado calculado?
+
+Deficiente Regular Bueno total
+UTPL 20 32 3 55
+UESS 11 5 5 21
+total 31 37 8 76
+R: 9,501
+
+12:50
+La siguiente tabla refleja la cantidad de estudiantes, según la calificación obtenida en matematicas de dos universidades, considere un margen de error en 0,05.
+
+cuál de los siguientes valores representa el Chi o Ji- cuadrado calculado?
+
+Deficiente Regular Bueno total
+UNEMI 5 11 7 23
+UTPL 20 32 3 55
+total 25 43 10 78
+
+12:50
+R:5,9915
+
+12:54
+A cuál de las siguientes descripciones le corresponde el concepto de Estadístico de prueba?
+R:Valor, determinado a partir de la información de la muestra, para determinar si se rechaza la hipótesis nula.
+
+12:57
+A cuál de las siguientes tipos de muestreo le corresponde la siguiente descripción?
+"Muestra seleccionada de manera que cada elemento o individuo de la población tenga las mismas posibilidades de que se le incluya.
+R:Muestreo aleatorio simple
+
+13:00
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución uniforme de entre 0 y 3,5 minutos.
+
+¿Qué porcentaje de huéspedes espera más de dos minutos?
+R:0,4286
+
+13:03
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución uniforme de entre 0 y 3,5 minutos.
+
+¿Qué porcentaje de huéspedes espera menos de un minuto?
+R:0,2857
+
+13:05
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución uniforme de entre 0 y 3,5 minutos.
+
+¿cual es la desviacion estandar del tiempo de espera?
+R:1,0103
+
+13:12
+El departamento de sistemas de computación cuenta con ocho profesores, de los cuales seis son titulares. La
+doctora Vonder, directora, desea formar un comité de tres profesores del departamento con el fin de que
+revisen el plan de estudios. Si selecciona el comité al azar:
+¿Cuál es la probabilidad de que todos los miembros del comité sean titulares?
+R:0,3571
+
+13:14
+El departamento de sistemas de computación cuenta con ocho profesores, de los cuales seis son titulares. La
+doctora Vonder, directora, desea formar un comité de tres profesores del departamento con el fin de que
+revisen el plan de estudios. Si selecciona el comité al azar:
+¿Cuál es la probabilidad de que por lo menos 2 miembros del comité sean titulares?
+R:0,89285
+
+13:15
+Un fabricante de focos afirma que su product durará un promedio de 500 horas de trabajo. Para conservar
+este promedio esta persona verifica 25 focos cada mes. Cuál es el valor de la t-Student de la tabla o valor
+crítico con un Nc=90% (considerar distribución de dos colas) ?
+R:1,711
+
+13:17
+A cuál de las siguientes descripciones le corresponde el concepto de Muestro?
+R:Es una herramienta de la investigación científica, cuya función básica es determinar que parte de una población debe
+examinarse, con la finalidad de hacer inferencias sobre dicha población
+
+13:22
+A cuál de los siguientes términos hace referencia la siguiente descripción:
+"Aceptar la hipótesis nula cuando es falsa."
+R:Error tipo II en la formulación de la hipótesis
+
+13:23
+El tiempo que los huéspedes del hotel Grande Dunes, de Bahamas, esperan el ascensor tiene una distribución
+uniforme de entre 0 y 3,5 minutos.
+b) ¿Cuánto tiempo espera el cliente habitual el servicio de elevador?
+R:1,75
+
+13:24
+El “tiempo de buteo” (el lapso que transcurre entre la aparición de la pantalla del Bios hasta que el primer
+archivo es cargado en Windows) de la computadora personal de Eric Mouser sigue una distribución
+exponencial, con una media de 27 segundos. ¿Cuál es la probabilidad de que este “buteo” requerirá:
+a) entre 30 y 45
+R: 0,1403
+
+13:26
+El “tiempo de buteo” (el lapso que transcurre entre la aparición de la pantalla del Bios hasta que el primer
+archivo es cargado en Windows) de la computadora personal de Eric Mouser sigue una distribución
+exponencial, con una media de 27 segundos. ¿Cuál es la probabilidad de que este “buteo” requerirá:
+a) mas de 15 segundos
+R:0,5738
+
+13:39
+El "tiempo de buteo" (el lapso que transcurre entre la aparición de la pantalla del Bios hasta que el primer archivo es cargado en Windows) de la computadora personal de Eric Mouser sigue una distribución exponencial, con una media de 27 segundos. ¿Cuál es la probabilidad de que este "buteo" requerirá:
+
+a) menos de 60 segundos
+R:0,8916
+
+13:40
+Shaver Manufacturing, Inc., ofrece a sus empleados seguros de atención dental. Un estudio reciente realizado por el director de recursos humanos demuestra que el costo anual por empleado tuvo una distribución de probabilidad normal, con una media de $1 280 y una desviación estándar de $420 anuales.
+
+¿Cuál fue el costo de 15% de los empleados que generó gastos más altos por atención dental?
+R:1716,8
+
+13:42
+Un informe reciente publicado en USA Today indicaba que una familia común de cuatro miembros gasta $490 al mes en alimentos. Suponga que la distribución de gastos de alimento de una familia de cuatro miembros sigue una distribución normal, con una media de $490 y una desviación
+
+estándar de $90.
+
+(redondear eel valor de z al segundo decimal si lo amerita)
+R:0,2514
+
+13:44
+de la pregunta de arriba(¿que porcentaje de familia gasta mas de $550 al mes?)
+
+13:45
+Un informe reciente publicado en USA Today indicaba que una familia común de cuatro miembros gasta $490 al mes en alimentos. Suponga que la distribución de gastos de alimento de una familia de cuatro miembros sigue una distribución normal, con una media de $490 y una desviación estándar de $90.
+
+(redondear eel valor de z al segundo decimal si lo amerita)
+
+¿Qué porcentaje de familias gasta mas de $430 al mes en alimentos?
+R:0,7486
+
+13:46
+Las comisiones anuales que percibieron los representantes de ventas de Machine Products, Inc., fabricante de maquinaria ligera, tienen una distribución de probabilidad normal. El monto anual medio percibido es de $40 000, y la desviación estándar, de $5000.
+
+El gerente desea gratificar a los representantes de ventas que perciben las comisiones más altas con un bono de $1 000. Les puede conceder un bono a 20% de ellos. ¿Cuál es el límite entre los que obtienen un bono y quienes no lo obtienen?
+R:44200
+
+13:48
+La cantidad de bebida de cola en una lata de 12 onzas tiene una distribución uniforme entre 11.96 y 12.05 onzas. ¿Cuál es la probabilidad de elegir una lata de bebida de cola que contenga menos de 11.98 onzas?
+R:0,222
